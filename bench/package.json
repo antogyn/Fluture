@@ -1,0 +1,8 @@
+{
+  "name": "fluture-benchmarks",
+  "version": "1.0.0",
+  "description": "A package.json for the purpose of being able to install dependencies in here",
+  "author": "Aldwin Vlasblom <aldwin.vlasblom@gmail.com> (https://github.com/Avaq)",
+  "license": "MIT",
+  "private": true
+}
